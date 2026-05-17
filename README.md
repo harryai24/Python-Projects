@@ -1,2 +1,2 @@
 # Python-Projects
-Python  projects that are made during the practice time.
+"A collection of Python projects built during my learning and practice sessions."
